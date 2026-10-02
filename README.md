@@ -2,6 +2,8 @@
 
 > **Revoke** — A credential broker that keeps secrets out of agent context and supports one-action revocation.
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/agentsec-ecosystem/agentkeys/badge)](https://scorecard.dev/viewer/?uri=github.com/agentsec-ecosystem/agentkeys)
+
 Part of the [agentsec-ecosystem](https://github.com/agentsec-ecosystem) — open-source,
 harness-agnostic security for AI agents.
 
