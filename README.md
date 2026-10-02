@@ -1,7 +1,6 @@
-# <tool-name>
+# agentkeys
 
-> One-line description of what this tool does and which of the four capabilities it provides
-> (monitor / alert / block-limit / revoke).
+> **Revoke** — A credential broker that keeps secrets out of agent context and supports one-action revocation.
 
 Part of the [agentsec-ecosystem](https://github.com/agentsec-ecosystem) — open-source,
 harness-agnostic security for AI agents.
